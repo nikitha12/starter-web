@@ -13,5 +13,5 @@ this is a web project , deployment can be any web server or even local file syst
 Fork the repository and then issue pull request for review. 
 
 ### Copyright 
-2014 GIT Traning 
+2014 GIT Traning. All rights reserved.
 
