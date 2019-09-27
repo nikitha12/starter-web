@@ -1,3 +1,4 @@
 # robotstxt.org/
 # Basic test change
+#Extra test for stashing example
 User-agent: *
