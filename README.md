@@ -1,5 +1,5 @@
 # Starter Web Project
-This is simple web project for showing how to use Git and Github.
+This is simple web project for showing how to use Git and Github.Emergance fix after stashing
 
 ## Introduction
 This is example to show different parts of Git repository and various commands using web project.
